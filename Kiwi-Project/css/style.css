@@ -562,6 +562,21 @@ nav{
 }
 
 
+button{
+	outline: none !important;
+}
+#top-nav a{
+	text-decoration: none !important;
+}
+#top-nav p:hover{
+	color: #000 !important;
+	font-size: 17px !important;
+}
+nav .fa-heart,
+nav .fa-shopping-cart{
+	font-size: 22px !important;
+}
+
 
 
 
