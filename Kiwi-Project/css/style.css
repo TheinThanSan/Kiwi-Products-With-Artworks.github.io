@@ -510,6 +510,7 @@ nav{
     border-radius: 0 0 0 0;
 }
 
+
 /*social section*/
 #social{
 	background: url(../images/social.jpg);
@@ -663,6 +664,9 @@ nav{
 	}
 	.toggler .fa-bars{
 		display: block;
+	}
+	#contact .card-body{
+		height: 18rem !important;
 	}
 }
 
